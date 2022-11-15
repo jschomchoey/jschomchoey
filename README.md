@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jschomchoey
-- 👀 I’m interested in NFC
-- 🌱 I’m currently learning Computer Engineering
+- 👀 I’m interested in Mobile Development 
+- 🌱 I’m currently learning Computer Engineering Rajamangala University of Technology Lanna
 
 <!---
 jschomchoey/jschomchoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
