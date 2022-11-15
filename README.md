@@ -1,3 +1,10 @@
+<a href="https://github.com/chenxch/chenxch">
+  <img src="https://komarev.com/ghpvc/?username=jschomchoey" alt="page views" />
+</a>
+<a href="https://github.com/chenxch?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jschomchoey?color=Cyan&logo=github">
+</a>
+
 ## Who am I?
 - 👋 Hi, I’m @jschomchoey
 - 👀 I’m interested in Mobile Development 
