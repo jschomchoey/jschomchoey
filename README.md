@@ -1,8 +1,8 @@
 <a href="https://github.com/jschomchoey/jschomchoey">
-  <img src="https://komarev.com/ghpvc/?username=jschomchoey" alt="page views" />
+  <img src="https://komarev.com/ghpvc/?username=jschomchoey" alt="Page Views" />
 </a>
 <a href="https://github.com/jschomchoey?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/jschomchoey?color=Cyan">
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/jschomchoey?color=Cyan">
 </a>
 
 ## Who am I?
