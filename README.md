@@ -6,8 +6,8 @@
 </a>
 
 ## Who am I?
-- 👋 Hi, I’m @jschomchoey
-- 👀 I’m interested in Mobile Development 
+- 👋 Hi there, I’m @jschomchoey
+- 💻 I’m interested in Mobile Development 
 - 🌱 I’m currently learning Computer Engineering Rajamangala University of Technology Lanna
 
 [![Bram GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jschomchoey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,&theme=dracula&hide_border=true&title_color=FFAC43&icon_color=FFAC43)](https://github.com/jschomchoey/jschomchoey)
