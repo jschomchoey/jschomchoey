@@ -8,8 +8,8 @@
 ## Who am I?
 - 👋 Hi there, I’m @jschomchoey
 - 💻 I’m interested in Mobile Development 
-- 🌱 I’m currently learning Computer Engineering Rajamangala University of Technology Lanna
-
+- 🌱 I’m currently learning Computer Engineering
+  
 [![Bram GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jschomchoey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,&theme=dracula&hide_border=true&title_color=FFAC43&icon_color=FFAC43)](https://github.com/jschomchoey/jschomchoey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschomchoey&theme=dracula&hide_border=true&title_color=FFAC43&card_width=495px)](https://github.com/jschomchoey/jschomchoey)
