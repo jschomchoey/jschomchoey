@@ -5,10 +5,7 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/jschomchoey?color=Cyan">
 </a>
 
-## Who am I?
-- 👋 Hi there, I’m @jschomchoey
-- 💻 I’m interested in Mobile Development 
-- 🌱 I’m currently learning Computer Engineering
+Hi 👋, I'm James. I'm a Frontend Developer and UX/UI Developer. I'm passionate about designing and building web pages that provide a great user experience, both aesthetically and functionally.
   
 [![Bram GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jschomchoey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,&theme=dracula&hide_border=true&title_color=FFAC43&icon_color=FFAC43)](https://github.com/jschomchoey/jschomchoey)
 
